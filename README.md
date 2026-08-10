@@ -1,39 +1,14 @@
 <div align="center">
 
 <a href="https://github.com/ayush-00001">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0720,35:241044,65:5B21B6,100:2563EB&height=250&section=header&text=AYUSH&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0720,35:241044,65:5B21B6,100:2563EB&height=250&section=header&text=AYUSH&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
 </a>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+%26+AI+Systems;Full+Stack+Development+%7C+Machine+Learning;Turning+Ideas+into+Production-Ready+Products;Engineering+with+Performance%2C+Security+%26+Impact" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+Systems;Full+Stack+Development;Turning+Ideas+into+Production-Ready+Products;Engineering+with+Performance%2C+Security+%26+Impact" alt="Typing SVG"/>
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/B.Tech%20CSE-Manipal%20University%20Jaipur-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-2563EB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack-4C1D95?style=for-the-badge&logo=react&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://github.com/ayush-00001">
-<img src="https://img.shields.io/badge/Portfolio-GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ayush841226jaiswal@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/ayush-00001">
-<img src="https://img.shields.io/badge/GitHub-ayush--00001-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
 
 </div>
 
