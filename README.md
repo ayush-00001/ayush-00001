@@ -54,17 +54,11 @@
 
 <div align="center">
 
-<a href="https://github.com/ayush-00001">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayush-00001&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&cache_seconds=86400" alt="Ayush GitHub Stats"/>
-</a>
-
-<a href="https://github.com/ayush-00001">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-00001&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&cache_seconds=86400" alt="Ayush Top Languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ayush-00001&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=ayush-00001&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
 </div>
 
