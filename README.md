@@ -6,10 +6,9 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/ayush-00001">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+Systems;Full+Stack+Development;Turning+Ideas+into+Production-Ready+Products;Engineering+with+Performance%2C+Security+%26+Impact" alt="Typing SVG"/>
 </a>
-
 </div>
 
 
@@ -55,17 +54,17 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayush-00001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
+<a href="https://github.com/ayush-00001">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayush-00001&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&cache_seconds=86400" alt="Ayush GitHub Stats"/>
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-00001&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
+<a href="https://github.com/ayush-00001">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-00001&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&cache_seconds=86400" alt="Ayush Top Languages"/>
+</a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayush-00001&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ayush-00001&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -95,6 +94,23 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ayush-00001/ayush-00001/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ayush-00001/ayush-00001/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ayush-00001/ayush-00001/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ayush-00001/ayush-00001/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+
+</picture>
 
 </div>
