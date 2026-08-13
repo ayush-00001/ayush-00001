@@ -56,12 +56,14 @@
 
 <a href="https://github.com/ayush-00001">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ayush-00001&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"
-    alt="Ayush GitHub Stats"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-00001&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    width="95%"
+    alt="GitHub Contribution Activity"
   />
 </a>
 
 </div>
+
 ---
 
 # GitHub Trophies
