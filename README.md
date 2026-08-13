@@ -55,11 +55,13 @@
 <div align="center">
 
 <a href="https://github.com/ayush-00001">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-00001&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    width="95%"
-    alt="GitHub Contribution Activity"
-  />
+
+<img
+  src="https://streak-stats.demolab.com/?user=ayush-00001&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  width="70%"
+  alt="Ayush's GitHub Streak"
+/>
+
 </a>
 
 </div>
