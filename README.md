@@ -54,11 +54,12 @@
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=ayush-00001&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
-  width="70%"
-  alt="GitHub Streak"
-/>
+<a href="https://github.com/ayush-00001">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ayush-00001&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"
+    alt="Ayush GitHub Stats"
+  />
+</a>
 
 </div>
 
