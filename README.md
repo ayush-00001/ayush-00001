@@ -62,7 +62,6 @@
 </a>
 
 </div>
-
 ---
 
 # GitHub Trophies
