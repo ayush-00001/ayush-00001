@@ -51,8 +51,7 @@
 
 ---
 
-### Leetcode:
-
+## Leetcode:
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ayush-001____?theme=dark&font=Noto%20Sans%20Gothic&ext=heatmap" alt="LeetCode Heatmap" />
@@ -60,7 +59,7 @@
   
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -74,7 +73,7 @@
 
 ---
 
-# GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -84,7 +83,7 @@
 
 ---
 
-# Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -94,7 +93,7 @@
 
 ---
 
-# Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
