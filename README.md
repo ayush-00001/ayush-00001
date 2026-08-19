@@ -49,6 +49,16 @@
 
 </div>
 
+---
+
+### Leetcode:
+
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ayush-001____?theme=dark&font=Noto%20Sans%20Gothic&ext=heatmap" alt="LeetCode Heatmap" />
+</p>
+  
+---
 
 # GitHub Analytics
 
